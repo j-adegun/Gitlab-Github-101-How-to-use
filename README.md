@@ -18,3 +18,4 @@
 * git add * or git add filename
 * git commit -m "descriptive message"
 * git push
+* git reset --hard origin/main - To disregard local repo and override with the origin files
